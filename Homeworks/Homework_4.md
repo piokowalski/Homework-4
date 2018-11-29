@@ -27,8 +27,11 @@ Wykorzystaj projekt dostępny w folderze ```Homework_4/``` - zaimportuj plik ```
 12. Ocenanie: każdy z testów na zielono to część oceny, do zdobycia 100%:
 
 ```shouldReturnEmptyArrayWhenInputIsNull``` - 10%
+
 ```shouldReturnEmptyArrayWhenInputIsEmpty``` - 10%
+
 ```shouldCalculateAverageGradesWhenNoDuplicates``` - 40%
+
 ```shouldCalculateAverageGradesWhenDuplicatesExist``` - 40%
 
 13. Przykłady danych wejściowych i wyjściowych (tabele = tablica dwuwymiarowa, nagłówki (IMIĘ, OCENA) pomijamy w kodzie):
